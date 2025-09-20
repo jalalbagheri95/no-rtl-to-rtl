@@ -22,6 +22,13 @@ This add-on is designed for Persian-speaking users who want ChatGPT to look more
 
 ---
 
+## Source Code
+
+The full source code is available on GitHub:  
+[https://github.com/jalalbagheri95/no-rtl-to-rtl](https://github.com/jalalbagheri95/no-rtl-to-rtl)
+
+---
+
 ## Development
 
 To test locally before publishing:
