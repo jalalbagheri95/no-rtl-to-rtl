@@ -8,7 +8,7 @@ This add-on is designed for Persian-speaking users who want ChatGPT to look more
 ## Features
 
 - Automatically sets `<html dir="rtl" lang="fa-IR">`.
-- Applies a custom Persian font for better readability.
+- Applies a custom Persian font (Vazirmatn, designed by Saber Rasti Kerdar) for better readability.
 - Lightweight, runs only on **chat.openai.com**.
 - Open Source (GPL v2).
 
