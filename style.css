@@ -69,3 +69,11 @@
   font-style: normal;
   font-display: swap;
 }
+
+body,
+button,
+input,
+select,
+textarea {
+  font-family: Vazirmatn, sans-serif !important;
+}
