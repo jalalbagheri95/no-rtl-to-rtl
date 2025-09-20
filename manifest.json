@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+  "name": "No RTL to RTL",
+  "version": "1.0",
+
+  "description": "make rtl .",
+
+  "icons": {
+    "48": "icons/icon.png"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["*://*.chatgpt.com/*"],
+      "js": ["nortltortl.js"]
+    }
+  ]
+}
