@@ -16,7 +16,7 @@ This add-on is designed for Persian-speaking users who want ChatGPT to look more
 
 ## Installation
 
-1. Download the add-on from [Firefox Add-ons (AMO)](https://addons.mozilla.org/) (after publication).
+1. Download the add-on from [Firefox Add-ons (AMO)](https://addons.mozilla.org/addon/no-rtl-to-rtl/).
 2. Install it in your browser.
 3. Open [ChatGPT](https://chat.openai.com/) → the page will automatically switch to RTL and Persian.
 
